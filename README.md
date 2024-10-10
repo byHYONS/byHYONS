@@ -1,6 +1,8 @@
-# Ciao! 👋 Sono Samuele • byHYONS™
+# Ciao! 👋   
+Sono Samuele • byHYONS
 
 Sono un Broker Immobiliare e Consulente Marketing con una fortissima passione per lo **sviluppo web** e il **digital marketing**. 
+
 Amo trovare la giusta connessione tra tecnologia e il mondo immobiliare, e sono sempre pronto a esplorare nuovi progetti innovativi.
 
 ## Chi sono
