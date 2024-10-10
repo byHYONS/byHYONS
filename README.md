@@ -23,8 +23,6 @@ Amo trovare la giusta connessione tra tecnologia e il mondo immobiliare, e sono 
 - 🎨 **Web Design & Graphic Design**: Creazione di interfacce utente, mockup, e loghi che catturano l'attenzione.
 
 ## Contattami
-
-## Contattami
 📧 **[byHYONS@gmail.com](mailto:byhyons@gmail.com)**
 
 Sono sempre alla ricerca di nuove sfide e collaborazioni, soprattutto quando si tratta di innovazione e sviluppo nell'ambito immobiliare. 
