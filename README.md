@@ -14,14 +14,14 @@ Amo trovare la giusta connessione tra tecnologia e il mondo immobiliare, e sono 
 - **Collaborazioni Immobiliari** 🏡: Se hai progetti legati all'immobiliare, posso offrire il mio know-how e contribuire alla creazione di soluzioni digitali che aggiungano valore.
 - **Marketing e Comunicazione** 📣: Consulenza in Marketing Direct Response, copywriting persuasivo, e strategie di vendita per aumentare la visibilità e l'efficacia delle tue campagne, il tutto incentrato alla progettazione e creazione di Landing-Page performanti.
 - **Progetti di Innovazione Immobiliare** 🔄: Sono interessato a sviluppare progetti che uniscono **tecnologia e immobiliare**, creando nuove esperienze digitali per il settore.
-- 🎨 **Web Design & Graphic Design**: Creazione di mockup accattivanti e persuasivi per ogni tipo di progetto, progettazione e creazione di loghi.
+- **Web Design & Graphic Design** ✏️: Creazione di mockup accattivanti e persuasivi per ogni tipo di progetto, progettazione e creazione di loghi.
 
 ## Il mio Stack 
 - **HTML, CSS/SASS, JavaScript, Vue.JS** 💻: Passione per lo sviluppo front-end e creazione di esperienze utente intuitive.
 - **Laravel, MySQL, PHP** 🐘: Interesse profondo nello sviluppo back-end e nell'automazione di processi.
 - **Direct Response Marketing** 🚀: Utilizzo di tecniche di marketing per massimizzare l'efficacia di ogni comunicazione.
 - **Copywriting** ✍️: Creazione di contenuti accattivanti e persuasivi per ogni tipo di progetto.
-- 🎨 **Web Design & Graphic Design**: Creazione di interfacce utente, mockup, e loghi che catturano l'attenzione.
+- **Web Design & Graphic Design** 🎨: Creazione di interfacce utente, mockup, e loghi che catturano l'attenzione.
 
 ## Contattami
 📧 **[byHYONS@gmail.com](mailto:byhyons@gmail.com)**
